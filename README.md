@@ -1,1 +1,3 @@
 # git_test
+Odin journey begin here...
+Hello odin
